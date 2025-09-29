@@ -1,0 +1,15 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\stant\OneDrive\Documentos\LTspice\Analog Electronics\Mod5.net
+Start Time: Sat Sep 27 15:44:31 2025
+solver = Normal
+Maximum thread count: 14
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.144 seconds.
+
+Files loaded:
+C:\Users\stant\OneDrive\Documentos\LTspice\Analog Electronics\Mod5.net
+C:\Users\stant\AppData\Local\LTspice\lib\cmp\standard.bjt
+
